@@ -5,3 +5,4 @@ La validation de la qualité / performance d’une méthode peut se faire selo
 Qualité de la prédiction spatiale (l’escale prévue a eu lieu dans l’intervalle t+5, t+20).
 Qualité de la prédiction temporelle (écart entre fenêtre prévue et fenêtre réalisée).
 
+[DEMO](https://youtu.be/2_aME2iuRw4?si=HTbv9qV65DGAvXK9)
